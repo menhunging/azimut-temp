@@ -1,0 +1,147 @@
+@font-face {
+	font-family: 'Mulish';
+	src: local("Mulish"),
+		url("../fonts/Mulish-Light.woff2") format("woff2"),
+		url("../fonts/Mulish-Light.woff") format("woff");
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Mulish';
+	src: local("Mulish"),
+		url("../fonts/Mulish-Regular.woff2") format("woff2"),
+		url("../fonts/Mulish-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Mulish';
+	src: local("Mulish"),
+		url("../fonts/Mulish-Medium.woff2") format("woff2"),
+		url("../fonts/Mulish-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Mulish';
+	src: local("Mulish"),
+		url("../fonts/Mulish-Semibold.woff2") format("woff2"),
+		url("../fonts/Mulish-Semibold.woff") format("woff");
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Raleway';
+	src: local("Raleway"),
+		url("../fonts/Raleway-Regular.woff2") format("woff2"),
+		url("../fonts/Raleway-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Raleway';
+	src: local("Raleway"),
+		url("../fonts/Raleway-Medium.woff2") format("woff2"),
+		url("../fonts/Raleway-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+body,
+.title,
+p,
+.button,
+.form__field label.error,
+.form__input,
+.form__textarea,
+.breadcrumbs__list a,
+.breadcrumbs__list span,
+.rubrics a,
+.tags a,
+.header-top__list a,
+.header-location__button,
+.header-lang__button,
+.header-location__dropdown a,
+.header-lang__dropdown a,
+.header-center__tel,
+.back-call-button,
+.search-form__input,
+.search-form__item a,
+.search-form__link,
+.header-catalog__button,
+.header-premises__button,
+.header-bottom__list li a,
+.menu-catalog__link,
+.header-menu__button,
+.header-menu__nav-list a,
+.header-menu__location-dropdown li a,
+.header-menu__lang-dropdown li a,
+.header-menu__availability,
+.items-cart__name,
+.items-cart__del,
+.product-card__name,
+.added-popup__name,
+.another-card__name,
+.added-popup__toggle span,
+.project-card__name,
+.project-card__link,
+.blog-article__tag,
+.catalog-card__list li a,
+.catalog-card__content a,
+.page-nav__item a,
+.favorites-block__delete,
+.article__tag,
+.another-article__tag,
+.brands__categories a,
+.brands__more,
+.designers__nav li span,
+.designers__nav li a,
+.contacts__links a,
+.buyer__tab-button,
+.index-blog__more ul a,
+.index-social__info a,
+.product-info__info-list li p,
+.product-info__info-list li a,
+.product-info__sizes button,
+.product-info__buy,
+.catalog-info__link,
+.catalog-items__sort button,
+.catalog-items__show button,
+.catalog-items__sort ul a,
+.catalog-items__show ul a,
+.filter-results__reset-all button,
+.catalog-info .tags__more button,
+.catalog-filters__switch-label,
+.catalog-filters__header,
+.filters-range__input,
+.catalog-filters__search input,
+.cart-body__title h2,
+.counter__input,
+.cart-body__del,
+.cart__total-link,
+.ordering-body__title h2,
+.footer-form__item-tel,
+.footer-form__item-tel a,
+.footer-form__item-mail div,
+.footer-form__item-address div,
+.footer__list a,
+.footer__links a,
+.history__tab-content p,
+.history__title p,
+.history__slide-content p,
+.history__mobile-title,
+.history__mobile-content p,
+.history__mobile-button {
+	font-family: "Mulish", sans-serif;
+}
